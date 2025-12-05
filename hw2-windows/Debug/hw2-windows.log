@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hw2-windows.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  display.cpp
+C:\Users\alexy\Documents\CSE167\hw4\hw2-windows\display.cpp(122,21): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\alexy\Documents\CSE167\hw4\hw2-windows\display.cpp(122,53): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\alexy\Documents\CSE167\hw4\hw2-windows\display.cpp(122,84): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\alexy\Documents\CSE167\hw4\hw2-windows\display.cpp(188,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexy\Documents\CSE167\hw4\hw2-windows\display.cpp(233,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  hw2-windows.vcxproj -> C:\Users\alexy\Documents\CSE167\hw4\Debug\hw4.exe
